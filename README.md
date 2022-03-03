@@ -9,6 +9,7 @@ The Latin Text I grabbed from here :
 https://generator.lorem-ipsum.info/_latin  
   
 I also fixed a pesky bug where it would display characters that were not in the text file.  
+  
 His code looked like a Linux only version, but this repo will work on Windows and Linux. I tested this on windows, with codeblocks.  
   
 I compiled and supplied the freetype library that GCC would need. Just make sure your paths are correct.  
