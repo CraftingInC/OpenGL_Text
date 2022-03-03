@@ -1,0 +1,494 @@
+# depslib dependency file v1.0
+1641669728 source:c:\users\pop\documents\codeblocks\gltexttest3\libs\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"glad.h"
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1641669728 c:\users\pop\documents\codeblocks\gltexttest3\libs\glad\glad.h
+	"khrplatform.h"
+
+1641669728 c:\users\pop\documents\codeblocks\gltexttest3\libs\glad\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1646339970 source:c:\users\pop\documents\codeblocks\gltexttest3\main.c
+	<glad.h>
+	<GLFW/glfw3.h>
+	<stdio.h>
+	<cglm/cglm.h>
+	<cglm/call.h>
+	<math.h>
+	<ft2build.h>
+
+1645726340 c:\users\pop\documents\codeblocks\gltexttest3\libs\glfw3\glfw-3.3.6.bin.win64\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<GL/glext.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\cglm.h
+	"common.h"
+	"vec2.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"mat2.h"
+	"affine.h"
+	"cam.h"
+	"frustum.h"
+	"quat.h"
+	"euler.h"
+	"plane.h"
+	"box.h"
+	"color.h"
+	"util.h"
+	"io.h"
+	"project.h"
+	"sphere.h"
+	"ease.h"
+	"curve.h"
+	"bezier.h"
+	"ray.h"
+	"affine2d.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\common.h
+	<stdint.h>
+	<stddef.h>
+	<math.h>
+	<float.h>
+	<stdbool.h>
+	"types.h"
+	"simd/intrin.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\types.h
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\intrin.h
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<arm_neon.h>
+	"x86.h"
+	"arm.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\x86.h
+	"intrin.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\arm.h
+	"intrin.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\vec2.h
+	"common.h"
+	"util.h"
+	"vec2-ext.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\util.h
+	"common.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\vec2-ext.h
+	"common.h"
+	"util.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\vec3.h
+	"common.h"
+	"vec4.h"
+	"vec3-ext.h"
+	"util.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\vec4.h
+	"common.h"
+	"vec4-ext.h"
+	"util.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\vec4-ext.h
+	"common.h"
+	"vec3-ext.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\vec3-ext.h
+	"common.h"
+	"util.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\mat4.h
+	"common.h"
+	"vec4.h"
+	"vec3.h"
+	"simd/sse2/mat4.h"
+	"simd/avx/mat4.h"
+	"simd/neon/mat4.h"
+	<assert.h>
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\sse2\mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\avx\mat4.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\neon\mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\mat3.h
+	"common.h"
+	"vec3.h"
+	"simd/sse2/mat3.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\sse2\mat3.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\mat2.h
+	"common.h"
+	"vec2.h"
+	"simd/sse2/mat2.h"
+	"simd/neon/mat2.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\sse2\mat2.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\neon\mat2.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\affine.h
+	"common.h"
+	"util.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"affine-mat.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\affine-mat.h
+	"common.h"
+	"mat4.h"
+	"mat3.h"
+	"simd/sse2/affine.h"
+	"simd/avx/affine.h"
+	"simd/neon/affine.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\sse2\affine.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\avx\affine.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\neon\affine.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\cam.h
+	"common.h"
+	"plane.h"
+	"clipspace/persp.h"
+	"clipspace/ortho_lh_zo.h"
+	"clipspace/persp_lh_zo.h"
+	"clipspace/view_lh_zo.h"
+	"clipspace/ortho_lh_no.h"
+	"clipspace/persp_lh_no.h"
+	"clipspace/view_lh_no.h"
+	"clipspace/ortho_rh_zo.h"
+	"clipspace/persp_rh_zo.h"
+	"clipspace/view_rh_zo.h"
+	"clipspace/ortho_rh_no.h"
+	"clipspace/persp_rh_no.h"
+	"clipspace/view_rh_no.h"
+	"clipspace/ortho_lh_zo.h"
+	"clipspace/persp_lh_zo.h"
+	"clipspace/ortho_lh_no.h"
+	"clipspace/persp_lh_no.h"
+	"clipspace/ortho_rh_zo.h"
+	"clipspace/persp_rh_zo.h"
+	"clipspace/ortho_rh_no.h"
+	"clipspace/persp_rh_no.h"
+	"clipspace/view_lh_zo.h"
+	"clipspace/view_lh_no.h"
+	"clipspace/view_rh_zo.h"
+	"clipspace/view_rh_no.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\plane.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\persp.h
+	"../common.h"
+	"../plane.h"
+	"../mat4.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\ortho_lh_zo.h
+	"../common.h"
+	"../plane.h"
+	"../mat4.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\persp_lh_zo.h
+	"../common.h"
+	"persp.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\view_lh_zo.h
+	"../common.h"
+	"view_lh.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\view_lh.h
+	"../common.h"
+	"../plane.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\ortho_lh_no.h
+	"../common.h"
+	"../plane.h"
+	"../mat4.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\persp_lh_no.h
+	"../common.h"
+	"persp.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\view_lh_no.h
+	"../common.h"
+	"view_lh.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\ortho_rh_zo.h
+	"../common.h"
+	"../plane.h"
+	"../mat4.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\persp_rh_zo.h
+	"../common.h"
+	"persp.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\view_rh_zo.h
+	"../common.h"
+	"view_rh.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\view_rh.h
+	"../common.h"
+	"../plane.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\ortho_rh_no.h
+	"../common.h"
+	"../plane.h"
+	"../mat4.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\persp_rh_no.h
+	"../common.h"
+	"persp.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\view_rh_no.h
+	"../common.h"
+	"view_rh.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\frustum.h
+	"common.h"
+	"plane.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\quat.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"affine-mat.h"
+	"affine.h"
+	"simd/sse2/quat.h"
+	"simd/neon/quat.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\sse2\quat.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\simd\neon\quat.h
+	"../../common.h"
+	"../intrin.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\euler.h
+	"common.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\box.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"util.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\color.h
+	"common.h"
+	"vec3.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\io.h
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\project.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"clipspace/project_zo.h"
+	"clipspace/project_no.h"
+	"clipspace/project_zo.h"
+	"clipspace/project_no.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\project_zo.h
+	"../common.h"
+	"../vec3.h"
+	"../vec4.h"
+	"../mat4.h"
+
+1644953462 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\clipspace\project_no.h
+	"../common.h"
+	"../vec3.h"
+	"../vec4.h"
+	"../mat4.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\sphere.h
+	"common.h"
+	"mat4.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\ease.h
+	"common.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\curve.h
+	"common.h"
+	"vec4.h"
+	"mat4.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\bezier.h
+	"common.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\ray.h
+	"vec3.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\affine2d.h
+	"common.h"
+	"util.h"
+	"vec2.h"
+	"mat3.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call.h
+	"cglm.h"
+	"call/vec2.h"
+	"call/vec3.h"
+	"call/vec4.h"
+	"call/mat2.h"
+	"call/mat3.h"
+	"call/mat4.h"
+	"call/affine.h"
+	"call/cam.h"
+	"call/quat.h"
+	"call/euler.h"
+	"call/plane.h"
+	"call/frustum.h"
+	"call/box.h"
+	"call/io.h"
+	"call/project.h"
+	"call/sphere.h"
+	"call/ease.h"
+	"call/curve.h"
+	"call/bezier.h"
+	"call/ray.h"
+	"call/affine2d.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\vec2.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\vec3.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\vec4.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\mat2.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\mat3.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\mat4.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\affine.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\cam.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\quat.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\euler.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\plane.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\frustum.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\box.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\io.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\project.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\sphere.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\ease.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\curve.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\bezier.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\ray.h
+	"../cglm.h"
+
+1644953460 c:\users\pop\documents\codeblocks\gltexttest3\libs\cglm-master\include\cglm\call\affine2d.h
+	"../cglm.h"
+
+1646326851 c:\users\pop\documents\codeblocks\gltexttest3\libs\freetype\include\ft2build.h
+	<freetype/config/ftheader.h>
+
+1646326853 c:\users\pop\documents\codeblocks\gltexttest3\libs\freetype\include\freetype\config\ftheader.h
+

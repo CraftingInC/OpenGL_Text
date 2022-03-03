@@ -1,4 +1,4 @@
-# OpenGL_Text
+# OpenGL_Text ( made for codeblocks )
 
 I originally found the demo code here :  
 https://github.com/sebbekarlsson/textviewgl
