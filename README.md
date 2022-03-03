@@ -3,7 +3,7 @@
 I originally found the demo code here :  
 https://github.com/sebbekarlsson/textviewgl
   
-However, I found several issues with it at the time I looked into it. So I fixed several errors, not to mention the text file itself. I also set the windows as resizable, with the text lines resizing along with the window.  
+However, I found several issues with it at the time I looked into it. So I fixed several errors, not to mention the text file itself. I also set the window as resizable, with the text lines resizing along with the window.  
   
 The Latin Text I grabbed from here :   
 https://generator.lorem-ipsum.info/_latin  
