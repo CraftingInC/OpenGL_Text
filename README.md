@@ -1,4 +1,4 @@
-# Modern OpenGL 3.3+ with TTF Text ( made for codeblocks )
+# Modern OpenGL 3.3+ with TTF Text ( codeblocks )
 
 I originally found the demo code here :  
 https://github.com/sebbekarlsson/textviewgl
